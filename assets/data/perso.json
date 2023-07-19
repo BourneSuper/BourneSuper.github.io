@@ -31,8 +31,16 @@
     ,
     "projects":[
         {
+            "project_name": "Chat Bot",
+            "demo_site":"https://chatbot.bournesuper.online/",
+            "repository":"",
+            "description": [
+                "A chat bot with ChatGPT inside it. It can talk like human about everything."
+            ]
+        },
+        {
             "project_name": "Admin Management",
-            "demo_site":"http://54.248.251.156:8024/",
+            "demo_site":"https://adminmanagement.bournesuper.online/",
             "repository":"",
             "description": [
                 "Admin Management is a Laravel administrative interface builder that lets you create CRUD backends with minimal code. ",
@@ -43,7 +51,7 @@
         {
             "project_name": "Air Work",
             "demo_site":"http://54.248.251.156:8023/",
-            "repository":"https://github.com/BourneSuper/air-work",
+            "repository":"https://airwork.bournesuper.online/",
             "description": [
                 "Air Work is a agile board for work, task management, team collaboration, process display. ",
                 "When condition is fulfilled,action(place an order or notifiction) will be triggered."
